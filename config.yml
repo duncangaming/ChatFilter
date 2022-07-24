@@ -1,0 +1,22 @@
+Filtered_Words:
+ - .com
+ - .net
+ - .org
+
+#set the delay between messages (seconds)
+#leave this at 0 for no delay
+delay: 3
+
+#enable blocking of duplicate messages
+Block-Dupe-Messages: true
+
+#enable blocking of duplicate Commands
+Block-Dupe-Commands: true
+
+#Block all messages sent by a player until they
+#have moved
+Block-Until-Moved: true
+
+#How long should people have to wait for a relog (seconds)
+#leave this at 0 for no delay
+Rejoin-time: 30

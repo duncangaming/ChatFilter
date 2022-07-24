@@ -1,0 +1,6 @@
+main: me.DuncanGaming.ChatFilter.ChatFilter
+name: ChatFilter
+version: 1.0
+author: DuncanGaming
+commands:
+ chatfilter:
